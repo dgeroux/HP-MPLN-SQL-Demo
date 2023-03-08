@@ -1,1 +1,1 @@
-# HP-MPLN-SQL-Demo
+# MPLN_SQL_Demo
