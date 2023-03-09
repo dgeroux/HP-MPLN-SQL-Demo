@@ -17,6 +17,9 @@ https://www.pgadmin.org/docs/
 
 https://www.tutorialspoint.com/postgresql/
 
+# Understanding Joins
+![joins](https://github.com/dgeroux/MPLN_SQL_Demo/blob/main/Images/PostgreSQL_joins.png)
+
 # Entity Relationship Diagram (ERD)/Schema
 ![ERD](https://github.com/dgeroux/MPLN_SQL_Demo/blob/main/Images/ERD_schema.png)
 
