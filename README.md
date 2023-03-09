@@ -4,9 +4,11 @@ Pewlett Hackard is a large company boasting several thousand employees and has b
 After creating a database, importing data, and using SQL to query the database, Pewlett Hackard's HR Analyst has a few more tasks for me. He wants me to determine the number or retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
 # Tools
-PostgreSQL - Relational database system (RDS) for holding data. Creates a local server on your computer.
+**PostgreSQL** - Relational database system (RDS) for holding data. Creates a local server on your computer.
 
-pgAdmin - Interface that talks to PostgreSQL ; specifically built for PostgreSQL. It's where queries are written, executed, and where results are viewed.
+**pgAdmin** - Interface that talks to PostgreSQL ; specifically built for PostgreSQL. It's where queries are written, executed, and where results are viewed.
+
+**Structured Query Language (SQL)** - A programming language used to manage and manipulate relational databases. It allows users to create, modify, and query databases.
 
 # Relevant Documentation
 https://www.postgresql.org/docs/
