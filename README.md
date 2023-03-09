@@ -10,6 +10,14 @@ After creating a database, importing data, and using SQL to query the database, 
 
 **Structured Query Language (SQL)** - A programming language used to manage and manipulate relational databases. It allows users to create, modify, and query databases.
 
+# Raw Data
+[Employees]()
+[Titles]()
+[Salaries]()
+[Departments]()
+[Department Managers]()
+[Department Employees]()
+
 # Relevant Documentation
 https://www.postgresql.org/docs/
 
