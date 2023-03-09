@@ -5,11 +5,14 @@ After creating a database, importing data, and using SQL to query the database, 
 
 # Tools
 PostgreSQL - Relational database system (RDS) for holding data. Creates a local server on your computer.
+
 pgAdmin - Interface that talks to PostgreSQL ; specifically built for PostgreSQL. It's where queries are written, executed, and where results are viewed.
 
 # Relevant Documentation
 https://www.postgresql.org/docs/
+
 https://www.pgadmin.org/docs/
+
 https://www.tutorialspoint.com/postgresql/
 
 # Entity Relationship Diagram (ERD)/Schema
