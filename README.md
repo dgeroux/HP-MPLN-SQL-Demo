@@ -3,6 +3,16 @@ Pewlett Hackard is a large company boasting several thousand employees and has b
 
 After creating a database, importing data, and using SQL to query the database, Pewlett Hackard's HR Analyst has a few more tasks for me. He wants me to determine the number or retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 
+# Tools
+PostgreSQL - Relational database system (RDS) for holding data. Creates a local server on your computer.
+pgAdmin - Interface that talks to PostgreSQL ; specifically built for PostgreSQL. It's where queries are written, executed, and where results are viewed.
+
+# Relevant Documentation
+https://www.postgresql.org/docs/
+https://www.pgadmin.org/docs/
+https://www.tutorialspoint.com/postgresql/
+
+# Entity Relationship Diagram (ERD)/Schema
 
 
 ### Employee Information: A list of employees containing their unique employee number, their last name, first name, gender, and salary
